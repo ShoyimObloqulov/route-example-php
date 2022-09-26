@@ -10,7 +10,7 @@ You need `PHP 5.3` or higher.
 
 You only need two files:
 
-- 1: `route.php`
+- 1: `api/route.php`
 - 2: `.htaccess`
 
 The `.htaccess` redirects all requests to `index.php?uri=$`.
@@ -21,7 +21,7 @@ You can run everything from the index.php file, see the file for usage.
 
 Require the route.php file and create an instance.
 ```php
-require_once 'route.php';
+require_once 'api/route.php';
 
 $route = new Route();
 ```
