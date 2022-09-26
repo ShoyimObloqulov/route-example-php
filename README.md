@@ -1,13 +1,5 @@
 # Route
 ***
-
-I made this in 2011, it is a no-nonsense PHP Router. It
-requires no dependencies. Fork it and have fun with it.
-
-This is a class with two methods! I figured I'd port this over from
-my old repositories. There are a thousand routers, all and everything
-built into frameworks -- sometimes it's fun to go back to the basics.
-
 This project was Inspired by [Klein](https://github.com/chriso/klein.php)
 
 ## Requirements
